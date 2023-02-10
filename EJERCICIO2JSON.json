@@ -1,0 +1,12 @@
+[
+    {
+        "Vehiculo":"Kia Rio Sedan",
+        "Color de Vehiculo":"Negro",
+        "Ano de Vehiculo":2022,
+        "Tipo de Motor":1.6,
+        "Pais":"Colombia",
+        "Valor":16.000,
+        "Combustible": "Diesel"
+        
+      }
+    ]
